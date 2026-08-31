@@ -199,6 +199,7 @@
 
 ### 📜 Some Certifications & Achievements
 
+- 📜 Certificate, Opportunity Open Source Conference
 - 📜 Hackathon, IBM Dev Day 
 - 📜 Hackathon, GDGoC Dev-Sprint
 - 📜 Examination, MongoDB Associate Data Modeler
