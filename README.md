@@ -195,17 +195,31 @@
 ---
 
 
+#### ✦ Some Certifications & Achievements
 
+<div align="left">
 
-### 📜 Some Certifications & Achievements
+✧ 📜 Certificate, Opportunity Open Source Conference<br>
+✧ 📜 Hackathon, IBM Dev Day<br>
+✧ 📜 Hackathon, GDGoC Dev-Sprint<br>
+✧ 📜 Examination, MongoDB Associate Data Modeler<br>
+✧ 📜 Examination, Microsoft GitHub Foundations<br>
+✧ 📜 Course, Stanford University Code in Place
 
-- 📜 Certificate, Opportunity Open Source Conference
-- 📜 Hackathon, IBM Dev Day 
-- 📜 Hackathon, GDGoC Dev-Sprint
-- 📜 Examination, MongoDB Associate Data Modeler
-- 📜 Examination, Microsoft GitHub Foundations 
-- 📜 Course, Stanford University Code in Place
+</div>
 
+---
+
+#### ✦ GitHub Statictics
+
+|  |  |  |
+|:--|:--|:--|
+|  |  ![Languages](svg/github_languages_scope.svg) |  |
+|  |  |  |
+|  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=techplanshetyapps&theme=tokyonight&hide_border=true) |  |
+|  |  |  |
+|  |  ![Contributions](svg/github_contributions.svg) |  |
+|  |  |  |
 ---
 
 <table>
