@@ -195,16 +195,34 @@
 ---
 
 
+#### ✦ Some Certifications & Achievements
 
+<div align="left">
 
-### 📜 Some Certifications & Achievements
+✧ 📜 Certificate, Opportunity Open Source Conference<br>
+✧ 📜 Certificates, student-led global hackathons<br>
+✧ 📜 Hackathons, IBM Dev Day<br>
+✧ 📜 Hackathon, GDGoC Dev-Sprint<br>
+✧ 📜 Examination, MongoDB Associate Data Modeler<br>
+✧ 📜 Examination, Microsoft GitHub Foundations<br>
+✧ 📜 Course, Stanford University Code in Place
 
-- 📜 Hackathon, IBM Dev Day 
-- 📜 Hackathon, GDGoC Dev-Sprint
-- 📜 Examination, MongoDB Associate Data Modeler
-- 📜 Examination, Microsoft GitHub Foundations 
-- 📜 Course, Stanford University Code in Place
+</div>
 
+---
+
+#### ✦ GitHub Statistics
+
+|  |  |  |
+|:--|:--|:--|
+|  |  ![Languages](svg/github_languages_scope.svg) |  |
+|  |  |  |
+|  |  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techplanshetyapps&theme=tokyonight&hide_border=true) |  |
+|  |  |  |
+|  |  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=techplanshetyapps&theme=tokyonight&utcOffset=-4&hide_border=true" width="40%" /><img src="https://streak-stats.demolab.com/?user=techplanshetyapps&theme=tokyonight&hide_border=true&v=1" width="60%" alt="GitHub Streak" />  |  |
+|  |  |  |
+|  |  ![Contributions](svg/github_contributions.svg) |  |
+|  |  |  |
 ---
 
 <table>
