@@ -200,6 +200,8 @@
 <div align="left">
 
 ✧ 📜 Certificate, Opportunity Open Source Conference<br>
+✧ 📜 Certificate, student-led global hackathon<br>
+✧ 📜 Hackathon, student-led global<br>
 ✧ 📜 Hackathon, IBM Dev Day<br>
 ✧ 📜 Hackathon, GDGoC Dev-Sprint<br>
 ✧ 📜 Examination, MongoDB Associate Data Modeler<br>
@@ -210,7 +212,7 @@
 
 ---
 
-#### ✦ GitHub Statictics
+#### ✦ GitHub Statistics
 
 |  |  |  |
 |:--|:--|:--|
