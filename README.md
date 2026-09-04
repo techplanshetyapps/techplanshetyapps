@@ -223,8 +223,60 @@
 |  |  |  |
 |  |  ![Contributions](svg/github_contributions.svg) |  |
 |  |  |  |
----
 
+<table>
+  <tr>
+    <td width="20%" align="center">
+<a href="https://technoengineering.pythonanywhere.com" target="_blank">
+  <img height="400" src="svg/swiftui-application.jpg" alt="swiftui" />
+</a>
+      </td>
+    <td width="30%" align="center">
+<a href="https://technoengineering.pythonanywhere.com" target="_blank">
+  <img height="400" src="svg/safari-addon.jpg" alt="swiftui" />
+</a>
+    </td>
+        <td width="20%" align="center">
+<a href="https://technoengineering.pythonanywhere.com" target="_blank">
+  <img height="400" src="svg/react-application.jpg" alt="swiftui" />
+</a>
+      </td>
+    <td width="30%" align="center">
+<a href="https://technoengineering.pythonanywhere.com" target="_blank">
+  <img height="400" src="svg/chrome-extension.jpg" alt="swiftui" />
+</a>
+    </td>
+  </tr>
+</table>
+<table>
+    <tr>
+    <td width="15%" align="center">
+<a href="https://technoengineering.pythonanywhere.com" target="_blank">
+  <img height="400" src="svg/flutter-application.jpg" alt="swiftui" />
+</a>
+    </td>
+    <td width="27.5%" align="center">
+<a href="https://technoengineering.pythonanywhere.com" target="_blank">
+  <img height="400" src="svg/blazor-application.jpg" alt="swiftui" />
+</a>
+    </td>
+        <td width="15%" align="center">
+<a href="https://technoengineering.pythonanywhere.com" target="_blank">
+  <img height="400" src="svg/django-application.jpg" alt="swiftui" />
+</a>
+    </td>
+        <td width="27.5%" align="center">
+<a href="https://technoengineering.pythonanywhere.com" target="_blank">
+  <img height="400" src="svg/android-application.jpg" alt="swiftui" />
+</a>
+    </td>
+        <td width="15%" align="center">
+<a href="https://technoengineering.pythonanywhere.com" target="_blank">
+  <img height="400" src="svg/nodejs-application.jpg" alt="swiftui" />
+</a>
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td width="40%" align="center">
