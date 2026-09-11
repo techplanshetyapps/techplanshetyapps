@@ -217,7 +217,7 @@
 |:--|:--|:--|
 |  |  ![Languages](svg/github_languages_scope.svg) |  |
 |  |  |  |
-|  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=techplanshetyapps&theme=tokyonight&hide_border=true) |  |
+|  |  ![](https://streak-stats.demolab.com/?user=techplanshetyapps&theme=tokyonight&hide_border=true) |  |
 |  |  |  |
 |  |  ![Contributions](svg/github_contributions.svg) |  |
 |  |  |  |
