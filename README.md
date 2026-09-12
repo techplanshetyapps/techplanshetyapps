@@ -201,7 +201,7 @@
 
 ✧ 📜 Certificate, Opportunity Open Source Conference<br>
 ✧ 📜 Certificate, student-led global hackathon<br>
-✧ 📜 Hackathon, IBM Dev Day<br>
+✧ 📜 Hackathons, IBM Dev Day<br>
 ✧ 📜 Hackathon, GDGoC Dev-Sprint<br>
 ✧ 📜 Examination, MongoDB Associate Data Modeler<br>
 ✧ 📜 Examination, Microsoft GitHub Foundations<br>
